@@ -1,4 +1,8 @@
-## play-audio
+## audio-play
+
+Fork of [azer/play-audio](https://github.com/azer/play-audio). Original readme:
+
+---
 
 Lightweight Wrapper For HTML5 Audio API
 

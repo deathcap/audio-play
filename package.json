@@ -1,5 +1,5 @@
 {
-  "name": "play-audio",
+  "name": "audio-play",
   "version": "0.0.3",
   "description": "HTML5 Audio Player",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "play"
   ],
   "repository": {
-    "url": "git@github.com:azer/play-audio.git",
+    "url": "git@github.com:deathcap/audio-play.git",
     "type": "git"
   },
   "author": "Azer Koçulu <azer@kodfabrik.com>",
